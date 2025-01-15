@@ -1,3 +1,8 @@
+
+> [!NOTE]  
+> Archived 2025-01-25 this `dbt` fork is no longer needed within @Clearcover
+
+
 <p align="center">
   <img src="https://github.com/fishtown-analytics/dbt/blob/master/etc/dbt-horizontal.png?raw=true" alt="dbt logo"/>
 </p>
